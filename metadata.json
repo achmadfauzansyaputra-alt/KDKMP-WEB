@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Desa Merah Putih",
+  "description": "Website Company Profile Modern dan Premium untuk Koperasi Desa Merah Putih (KDKMP), produsen Kopi Arabika Garut berkualitas tinggi yang memberdayakan petani lokal menuju pasar internasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
